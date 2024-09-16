@@ -31,7 +31,7 @@ Here are some of our favorite resources for getting started. Quickly familiarize
 - **[Video Glossary](https://www.fastpix.io/resources/video-glossary):** Learn about almost all commonly used terminologies in video streaming. All things video!
 
 ## Be part of the community
-Connect with us and engage with users on our community platforms. Join our discussions on Discord, follow us on [LinkedIn](https://www.linkedin.com/company/fastpix/mycompany/) and [Twitter](https://x.com/FastPixHQ) for updates, and to stay in touch with latest news and developments in video tech. Our social media team keeps us surprised. No boring stuff. We look forward to your participation and feedback!
+Connect with us and engage with users on our community platforms. Join our discussions on Discord, follow us on [LinkedIn](https://www.linkedin.com/company/fastpix/) and [Twitter](https://x.com/FastPixHQ) for updates, and to stay in touch with latest news and developments in video tech. Our social media team keeps us surprised. No boring stuff. We look forward to your participation and feedback!
 
 ## Interested in learning more? 
 Have questions or want to explore how our APIs can enhance your video-centric projects? Contact us to discuss your needs, request a demo, or get personalized support. 
